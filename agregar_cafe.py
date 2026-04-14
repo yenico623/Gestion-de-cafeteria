@@ -1,1 +1,2 @@
-print ("Agregar café")
+def agregar_cafe()
+	print ("Agregar café")

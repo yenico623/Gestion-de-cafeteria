@@ -8,7 +8,7 @@ Descripcion: Cafe de grano
 precio: 140
 Disponibilidad: 20
 
-Nombre: espreso 
+Nombre: espreso
 Descripcion: pequeño
 precio: 100
 Disponibilidad: 15

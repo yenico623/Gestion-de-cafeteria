@@ -11,6 +11,11 @@ El Sistema cuenta cosn la siguientes funcionalidades
 - **feature/delete-coffe**: Permite eliminar infromación,
 - producto.md (Archivos guardados)
 
+#Funciones
+Cada Funcionalidad cuenta con un archivo .py que permite la correcta ejeción.
+-agregar_cafe.py
+-eliminar.py
+-editar.py
 
 
 

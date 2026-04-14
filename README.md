@@ -13,9 +13,9 @@ El Sistema cuenta cosn la siguientes funcionalidades
 
 # 📌 Funciones
 Cada Funcionalidad cuenta con un archivo .py que permite la correcta ejeción.
--agregar_cafe.py
--eliminar.py
--editar.py
+- agregar_cafe.py
+- eliminar.py
+- editar.py
 
 
 
